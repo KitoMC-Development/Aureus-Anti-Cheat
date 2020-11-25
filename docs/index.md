@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## How It Works
 
-You can use the [editor on GitHub](https://github.com/KitoMC-Development/Aureus-Anti-Cheat/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Aureus works by using hundreds of checks and Deep Learning models to detect and eliminate cheaters and it has almost perfect accuracy leading in a very small amount of false bans
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Why Aureus?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+Syntax highl
 
 # Header 1
 ## Header 2
